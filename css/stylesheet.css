@@ -1,0 +1,48 @@
+
+img{
+	
+	margin-top: 180px;
+	margin-left: 100px;
+
+}
+.nig{
+ text-align: center;
+ margin-top: -80px;
+ margin-left: 30px;
+ padding-left: 90px;
+ color: blue;
+}
+div{
+	float:right;
+}
+input{
+	width: 700px;
+	height: 30px;
+
+}
+button{
+	margin-left: 20px;
+	margin-top: 50px;
+
+}
+
+.left{
+	float:left;
+	margin :8px;
+ 
+}
+.right{
+	float: right;
+	margin-left: 10px;
+
+}
+#foot{
+width:95%;
+height:40px;
+position:fixed;
+bottom:0px;
+display: block;
+margin: -0.9px;
+background-color: #f1f1f1; 
+}
+
